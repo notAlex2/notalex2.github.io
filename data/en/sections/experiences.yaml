@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -11,25 +11,25 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: CMC Electronics
+    url: "https://cmcelectronics.ca/"
+    location: Montreal, Canada
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: CMC Electronics designs and produces leading technology electronics products for the aviation and global positioning markets.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Software Developer
+    start: Dec 2014
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Sept 2019
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Example 1
+    - Example 2
+    - Example 3
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
+    name: Example Co.
+    url: "https://www.example.com"
     location: Nowhere
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
@@ -37,6 +37,6 @@ experiences:
     start: March 2016
     end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Example 1
+    - Example 2
+    - Example 3

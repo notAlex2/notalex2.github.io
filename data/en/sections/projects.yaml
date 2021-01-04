@@ -21,7 +21,7 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
+- name: Example 1
   logo: /images/sections/projects/kubernetes.png
   role: Contributor
   timeline: "March 2018 - Present"
@@ -30,7 +30,7 @@ projects:
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
+- name: Example 2
   logo: /images/sections/projects/tensorflow.png
   role: Developer
   timeline: "Jun 2018 - Present"
@@ -39,7 +39,7 @@ projects:
   summary: An Open Source Machine Learning Framework for Everyone.
   tags: ["professional", "machine-learning","academic"]
 
-- name: Toha
+- name: Example 3
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "Jun 2019 - Present"

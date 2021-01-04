@@ -15,7 +15,7 @@ company:
   url: "https://mila.quebec/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "static/files/resume.pdf"
+resume: "files/resume.pdf"
 
 # a summary about you
 summary: "Hi, I'm learning about web development; this website is still incomplete."
@@ -23,9 +23,17 @@ summary: "Hi, I'm learning about web development; this website is still incomple
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "alexander.peplowski@gmail.com"
+
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/notAlex2"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/apeplowski/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
