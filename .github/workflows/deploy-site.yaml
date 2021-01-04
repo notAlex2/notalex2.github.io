@@ -26,6 +26,13 @@ jobs:
     # build website
     - name: Build
       run: hugo --minify
+    
+    # Create CNAME
+    - name: Create CNAME
+      uses: "finnp/create-file-action@master"
+      env:
+        FILE_NAME: "CNAME"
+        FILE_DATA: "www.alexander-peplowski.ca"
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
