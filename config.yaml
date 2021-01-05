@@ -38,6 +38,7 @@ params:
     enable: false
   
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/main-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/android-chrome-512x512.png
+    inverted: /images/site/android-chrome-512x512.png
+    # inverted: /images/site/main-logo.png
+    favicon: /images/site/android-chrome-512x512.png
