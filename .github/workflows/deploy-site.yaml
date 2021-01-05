@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v2.3.4
+        with:
+          submodules: True
 
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
@@ -19,5 +21,4 @@ jobs:
           TARGET_REPO: notAlex2/notAlex2.github.io
           TARGET_BRANCH: master
           TOKEN: ${{ secrets.TOKEN }}
-          HUGO_ARGS: '-t toha'
           CNAME: www.alexander-peplowski.ca
