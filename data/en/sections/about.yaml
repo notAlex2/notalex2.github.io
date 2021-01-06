@@ -18,7 +18,11 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Hi, I'm learning about web development; this website is incomplete."
+summary:
+  "
+  Hi, I'm learning about web development; this website is incomplete.
+  "
+  # I also have over 5 years of prior experience with embedded software system engineering.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

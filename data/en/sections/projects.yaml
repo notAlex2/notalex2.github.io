@@ -22,6 +22,8 @@ buttons:
   filter: "tf"
 - name: C++
   filter: "cpp"
+- name: Python
+  filter: "py"
 
 # your projects
 projects:
@@ -37,9 +39,9 @@ projects:
   logo: /images/sections/projects/hq.png
   role: Developer
   timeline: "May 2020 - Dec 2020"
-  url: "https://www.youtube.com/watch?v=liSyJHtpx9k"
+  url: "https://www.youtube.com/watch?v=SYzJSbgvanU"
   summary: Deep learning object detector models designed for a low-data, embedded environment
-  tags: ["professional", "tf", "cv"]
+  tags: ["professional", "tf", "cv", "py"]
 
 - name: Solar Radiation Forecasting from Satellite Imagery
   logo: /images/sections/projects/mila.png
@@ -47,7 +49,7 @@ projects:
   timeline: "Jan 2020 - Apr 2020"
   repo: "https://github.com/notAlex2/Solar-irradiance-Team08-IFT6759"
   summary: 3D CNN and RNN deep learning models for forecasting solar radiation
-  tags: ["academic", "tf", "cv"]
+  tags: ["academic", "tf", "cv", "py"]
 
 - name: Pharmahacks Weekend Hackathon
   logo: /images/sections/projects/pharmahacks.png
@@ -55,6 +57,6 @@ projects:
   timeline: "Nov 2019"
   url: "https://devpost.com/software/asprin"
   summary: Identification and forecasting of pharmaceutical supply chain issues
-  tags: ["academic"]
+  tags: ["academic", "py"]
 
 # https://github.com/notAlex2/Solar-irradiance-Team08-IFT6759

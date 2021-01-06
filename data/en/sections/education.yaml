@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -24,24 +24,20 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: Data Structures and Algorithms
-    - name: Network Security
-    - name: Operating System
-    - name: Artificial Intelligent
+    - name: Machine Learning
+    - name: Data Science
+    - name: Probabilistic Graphical Models
+    - name: Algorithms
   publications: #(optional)
-  - title: Example 1
-    url: "#"
-  - title: Example 2
-    url: "#"
-  - title: Example 3
-    url: "#"
+  - title: High Wire AI - Automated Robotic Inspection in Low Data Environments
+    url: "https://www.youtube.com/watch?v=SYzJSbgvanU"
 
 - name: MEng in Control Systems
-  icon: fa-graduation-cap
+  icon: fa-university
   timeframe: 2013 - 2014
   institution:
     name: University of Toronto
-    url: "#"
+    url: "https://www.ece.utoronto.ca/control/control-about/"
   grade: #(optional)
     scale: CGPA
     achieved: 3.7
@@ -50,15 +46,36 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: Data Structures and Algorithms
-    - name: Network Security
-    - name: Operating System
-    - name: Artificial Intelligent
+    - name: Control Systems
+    - name: Mobile Robotics
+    - name: Project Management
   publications: #(optional)
   - title: Adaptive Cruise Control Design Using Reach Control
-    url: "https://experts.illinois.edu/en/publications/adaptive-cruise-control-design-using-reach-control"
+    url: "https://ieeexplore.ieee.org/document/8569963"
   # extracurricularActivities: #(optional)
   # - In vitae facilisis est, eget porta sem.
   # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   # - Duis sed massa feugiat, ornare justo et, aliquam est.
   # - Pellentesque ut fringilla magna.
+
+- name: B.Sc. in Electrical Engineering
+  icon: fa-graduation-cap
+  timeframe: 2009-2013
+  institution:
+    name: McGill University
+    url: "https://www.mcgill.ca/ece/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.5
+    outOf: 4.0
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Computer Vision
+    - name: Operating Systems
+    - name: Computer Engineering
+    - name: Signals and Systems
+  publications: #(optional)
+  - title: Spatial specificity of blood-oxygenation and blood volume signals in pial vessels and gray matter
+    url: "https://escholarship.mcgill.ca/downloads/jq085n87r?locale=en"
