@@ -27,14 +27,6 @@ buttons:
 
 # your projects
 projects:
-- name: AI Computer Vision for Mobile Robotics
-  logo: /images/sections/projects/hq.png
-  role: Developer
-  timeline: "May 2020 - Dec 2020"
-  url: "https://www.youtube.com/watch?v=SYzJSbgvanU"
-  summary: Deep learning object detector models designed for a low-data, embedded environment
-  tags: ["professional", "tf", "cv", "py"]
-
 - name: Inference of Public Transit Timeliness
   logo: /images/sections/projects/mila.png
   role: Co-Author
@@ -42,6 +34,14 @@ projects:
   repo: "https://github.com/notAlex2/pgm-public-transit"
   summary: Probabilistic inference of the timeliness of bus routes using two-dimensional markov chains
   tags: ["academic", "py"]
+
+- name: AI Computer Vision for Mobile Robotics
+  logo: /images/sections/projects/hq.png
+  role: Developer
+  timeline: "May 2020 - Dec 2020"
+  url: "https://www.youtube.com/watch?v=SYzJSbgvanU"
+  summary: Deep learning object detector models designed for a low-data, embedded environment
+  tags: ["professional", "tf", "cv", "py"]
 
 - name: Solar Radiation Forecasting from Satellite Imagery
   logo: /images/sections/projects/mila.png
@@ -64,7 +64,7 @@ projects:
   role: Developer
   timeline: "Dec 2014 - Sept 2019"
   url: "https://cmcelectronics.ca/ProduitsetServices/Aviation/NavigationetFMSGPS/Syst%C3%A8mesdePositionnementMondial/CMA-6024-FAQs.aspx"
-  summary: A high-performance civil aviation precision approach navigation receiver
+  summary: A high-performance civil aviation precision approach navigation GPS receiver
   tags: ["professional", "robo", "cpp"]
 
 - name: Pharmahacks Weekend Hackathon
