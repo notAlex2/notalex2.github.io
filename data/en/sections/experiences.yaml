@@ -25,6 +25,22 @@ experiences:
     - Improved training robustness in a low-data setting with dataset augmentation and saliency mapping
 
 - company:
+    name: University of Montreal
+    url: "https://admission.umontreal.ca/en/cours-et-horaires/cours/ift-6758/"
+    location: Montreal, Quebec, Canada
+    # company overview
+    overview: Mila is based at the University of Montreal. The Mila course IFT6758 (Data Science) introduces students to concepts in data science.
+  positions:
+  - designation: Teaching Assistant
+    start: Sept 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Prepared and presented lab material relating to OpenCV, scikit-learn, hyperparameter searching, Kaggle features
+    - Graded homework, exams, projects
+
+- company:
     name: CMC Electronics
     url: "https://cmcelectronics.ca/"
     location: Montreal, Quebec, Canada
@@ -40,19 +56,3 @@ experiences:
     - Develop and release production C++ code for real-time, safety-critical aircraft navigation systems
     - Optimize embedded software libraries to improve performance
     - Develop and debug multi-threaded applications
-
-- company:
-    name: University of Montreal
-    url: "https://admission.umontreal.ca/en/cours-et-horaires/cours/ift-6758/"
-    location: Montreal, Quebec, Canada
-    # company overview
-    overview: Mila is based at the University of Montreal. The Mila course IFT6758 (Data Science) introduces students to concepts in data science.
-  positions:
-  - designation: Teaching Assistant
-    start: Sept 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Prepared and presented lab material relating to OpenCV, scikit-learn, hyperparameter searching, Kaggle features
-    - Graded homework, exams, projects
