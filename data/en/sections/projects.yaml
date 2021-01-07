@@ -16,14 +16,14 @@ buttons:
   filter: "professional"
 - name: Academic
   filter: "academic"
-- name: Computer Vision
-  filter: "cv"
 - name: TensorFlow
   filter: "tf"
-- name: C++
-  filter: "cpp"
 - name: Python
   filter: "py"
+- name: C++
+  filter: "cpp"
+- name: Computer Vision
+  filter: "cv"
 
 # your projects
 projects:
@@ -43,6 +43,14 @@ projects:
   summary: Deep learning object detector models designed for a low-data, embedded environment
   tags: ["professional", "tf", "cv", "py"]
 
+- name: Inference of Public Transit Timeliness
+  logo: /images/sections/projects/mila.png
+  role: Co-Author
+  timeline: "May 2020 - Dec 2020"
+  repo: "https://github.com/notAlex2/pgm-public-transit"
+  summary: Probabilistic inference of the timeliness of bus routes using two-dimensional markov chains
+  tags: ["academic", "py"]
+
 - name: Solar Radiation Forecasting from Satellite Imagery
   logo: /images/sections/projects/mila.png
   role: Co-Author
@@ -51,6 +59,14 @@ projects:
   summary: 3D CNN and RNN deep learning models for forecasting solar radiation
   tags: ["academic", "tf", "cv", "py"]
 
+- name: Low-Resource Machine Translation
+  logo: /images/sections/projects/mila.png
+  role: Co-Author
+  timeline: "Jan 2020 - Apr 2020"
+  repo: "https://github.com/notAlex2/Translation-Team08-IFT6759"
+  summary: BERT masked language model embeddings, transformer encoder-decoder model, and back-translation for low-resource english-french translation.
+  tags: ["academic", "tf", "py"]
+
 - name: Pharmahacks Weekend Hackathon
   logo: /images/sections/projects/pharmahacks.png
   role: Co-Author
@@ -58,5 +74,3 @@ projects:
   url: "https://devpost.com/software/asprin"
   summary: Identification and forecasting of pharmaceutical supply chain issues
   tags: ["academic", "py"]
-
-# https://github.com/notAlex2/Solar-irradiance-Team08-IFT6759

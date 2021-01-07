@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: MASc Pr. in Machine Learning
+- name: M.Sc. Pr. in Machine Learning
   icon: fa-microscope
   timeframe: Sept 2019 - May 2021
   institution:
@@ -32,7 +32,7 @@ degrees:
   - title: High Wire AI - Automated Robotic Inspection in Low Data Environments
     url: "https://www.youtube.com/watch?v=SYzJSbgvanU"
 
-- name: MEng in Control Systems
+- name: M.Eng. in Electrical Engineering, Control Systems
   icon: fa-university
   timeframe: 2013 - 2014
   institution:
@@ -58,9 +58,9 @@ degrees:
   # - Duis sed massa feugiat, ornare justo et, aliquam est.
   # - Pellentesque ut fringilla magna.
 
-- name: B.Sc. in Electrical Engineering
+- name: B. Eng. in Electrical Engineering (Honours)
   icon: fa-graduation-cap
-  timeframe: 2009-2013
+  timeframe: 2009 - 2013
   institution:
     name: McGill University
     url: "https://www.mcgill.ca/ece/"
