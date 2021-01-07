@@ -27,14 +27,6 @@ buttons:
 
 # your projects
 projects:
-- name: CMC Electronics Augmented Global Positionning Receiver
-  logo: /images/sections/projects/cmc.png
-  role: Developer
-  timeline: "Dec 2014 - Sept 2019"
-  url: "https://cmcelectronics.ca/ProduitsetServices/Aviation/NavigationetFMSGPS/Syst%C3%A8mesdePositionnementMondial/CMA-6024-FAQs.aspx"
-  summary: A high-performance civil aviation precision approach navigation receiver
-  tags: ["professional", "robo", "cpp"]
-
 - name: AI Computer Vision for Mobile Robotics
   logo: /images/sections/projects/hq.png
   role: Developer
@@ -66,6 +58,14 @@ projects:
   repo: "https://github.com/notAlex2/Translation-Team08-IFT6759"
   summary: BERT masked language model embeddings, transformer encoder-decoder model, and back-translation for low-resource english-french translation.
   tags: ["academic", "tf", "py"]
+
+- name: CMC Electronics Augmented Global Positionning Receiver
+  logo: /images/sections/projects/cmc.png
+  role: Developer
+  timeline: "Dec 2014 - Sept 2019"
+  url: "https://cmcelectronics.ca/ProduitsetServices/Aviation/NavigationetFMSGPS/Syst%C3%A8mesdePositionnementMondial/CMA-6024-FAQs.aspx"
+  summary: A high-performance civil aviation precision approach navigation receiver
+  tags: ["professional", "robo", "cpp"]
 
 - name: Pharmahacks Weekend Hackathon
   logo: /images/sections/projects/pharmahacks.png
