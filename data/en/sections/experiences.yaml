@@ -53,6 +53,6 @@ experiences:
     end: Sept 2019
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Developped and released production C++ and Ada code for real-time, safety-critical aircraft navigation systems
+    - Developed and released production C++ and Ada code for real-time, safety-critical aircraft navigation systems
     - Optimized embedded software libraries to improve performance
-    - Developped and debugged multi-threaded applications
+    - Developed and debugged multi-threaded applications
