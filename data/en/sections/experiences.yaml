@@ -37,8 +37,8 @@ experiences:
     end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Prepared and presented lab material relating to OpenCV, scikit-learn, hyperparameter searching, Kaggle features
-    - Graded homework, exams, projects
+    - Taught lab sections covering material relating to OpenCV, scikit-learn, hyperparameter searching, feature selection, Kaggle competitons and API
+    - Evaluated student-submitted homework, exams and projects
 
 - company:
     name: CMC Electronics
@@ -53,6 +53,6 @@ experiences:
     end: Sept 2019
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Develop and release production C++ code for real-time, safety-critical aircraft navigation systems
-    - Optimize embedded software libraries to improve performance
-    - Develop and debug multi-threaded applications
+    - Developped and released production C++ and Ada code for real-time, safety-critical aircraft navigation systems
+    - Optimized embedded software libraries to improve performance
+    - Developped and debugged multi-threaded applications
